@@ -1,6 +1,8 @@
 <person>
     <name>Abdulaziz</name>
     <surname>Raxmonaliyev</surname>
-    <school>school 213</school>
-    <class>class 11-V</class>
+    <education>
+        <school>school 213</school>
+        <class>class 11-V</class>
+    </education>
 </person>
