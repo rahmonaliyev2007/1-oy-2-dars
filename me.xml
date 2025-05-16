@@ -1,8 +1,20 @@
-<person>
-    <name>Abdulaziz</name>
-    <surname>Raxmonaliyev</surname>
-    <education>
-        <school>school 213</school>
-        <class>class 11-V</class>
-    </education>
-</person>
+
+<people>
+    <person >
+        <name>Abdulaziz</name>
+        <surname>Raxmonaliyev</surname>
+        <education>
+            <school>school 213</school>
+            <class>class 11-V</class>
+        </education>
+    </person>
+
+    <person >
+        <name>Bekmirzo</name>
+        <surname>Ergashev</surname>
+        <education>
+            <school>school 213</school>
+            <class>class 11-V</class>
+        </education>
+    </person>
+</people>
