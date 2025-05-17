@@ -1,20 +1,41 @@
+<document>
+    <users>
+        <user id="1">
+            <name>Abdulaziz</name>
+            <surname>Raxmonaliyev</surname>
+            <education>
+                <school>school 213</school>
+                <class>class 11-V</class>
+            </education>
+        </user>
 
-<people>
-    <person >
-        <name>Abdulaziz</name>
-        <surname>Raxmonaliyev</surname>
-        <education>
-            <school>school 213</school>
-            <class>class 11-V</class>
-        </education>
-    </person>
+        <user id="2">
+            <name>Bekmirzo</name>
+            <surname>Ergashev</surname>
+            <education>
+                <school>school 213</school>
+                <class>class 11-V</class>
+            </education>
+        </user>
 
-    <person >
-        <name>Bekmirzo</name>
-        <surname>Ergashev</surname>
-        <education>
-            <school>school 213</school>
-            <class>class 11-V</class>
-        </education>
-    </person>
-</people>
+        <user id="3">
+            <name>Zuhriddin</name>
+            <surname>Eshonxonov</surname>
+            <education>
+                <school>school 213</school>
+                <class>class 11-V</class>
+            </education>
+        </user>
+    </users>
+
+    <relations>
+        <relation type="friend">
+            <id>1</id>
+            <id>2</id>
+        </relation>
+        <relation type="friend">
+            <id>1</id>
+            <id>3</id>
+        </relation>
+    </relations>
+</document>

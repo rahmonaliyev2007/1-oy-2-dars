@@ -1,0 +1,126 @@
+
+<store>
+    <types>
+        
+    </types>
+    <products>
+        <product id="1">
+            <name>Matiz</name>
+        </product>
+        <product id="2">
+            <name>Matiz</name>
+        </product>
+        <product id="3">
+            <name>Matiz</name>
+        </product>
+    </products>
+
+    <colors>
+        <color id="1">White</color>
+        <color id="2">Gray</color>
+        <color id="3">Black</color>
+        <color id="4">Red</color>
+    </colors>
+
+    <available>
+        <details product=""></details>
+    </available>
+</store>
+
+<!-- <document>
+
+    <cars>
+        <car model="matiz">
+            <name>Matiz</name>
+            <price>3000</price>
+            <colors>
+                <id>1</id>
+                <id>2</id>
+            </colors>
+        </car>
+        <car model="gentra">
+            <name>Gentra</name>
+            <price>8000</price>
+            <colors>
+                <id>2</id>
+                <id>3</id>
+            </colors>
+        </car>
+        <car model="malibu">
+            <name>Malibu</name>
+            <price>10000</price>
+            <colors>
+                <id>1</id>
+                <id>3</id>
+                <id>4</id>
+            </colors>
+        </car>
+    </cars>
+
+    <options>
+        <option type="color">
+            <red id="1">Red</red>
+            <white id="2">White</white>
+            <black id="3">Black</black>
+            <blue id="4">Blue</blue>
+        </option>
+    </options>
+
+</document> -->
+
+
+<!-- 
+<document>
+    
+    <cars>
+        <car id="1">
+            <model>Matiz</model>
+            <price>3000</price>
+        </car>
+        <car id="2">
+            <model>Gentra</model>
+            <price>8000</price>
+        </car>
+        <car id="3">
+            <model>Malibu</model>
+            <price>10000</price>
+        </car>
+    </cars>
+
+    <options>
+        <option type="color">
+            <red>Red</red>
+            <white >White</white>
+            <black >Black</black>
+            <blue >Blue</blue>
+        </option>
+    </options>
+
+</document> -->
+
+
+
+<!-- 
+
+<color type="white">
+            <id>1</id>
+            <id>2</id>
+            <id>3</id>
+        </color>
+        <color type="gray">
+            <id>1</id>
+            <id>2</id>
+            <id>3</id>
+        </color>
+        <color type="black">
+            <id>1</id>
+            <id>2</id>
+            <id>3</id>
+        </color>
+        <color type="pink">
+            <id>1</id>
+            <id>2</id>
+            <id>3</id>
+        </color>
+        
+-->
